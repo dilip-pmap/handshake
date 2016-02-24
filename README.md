@@ -1,4 +1,4 @@
-# cosmos
+# handshake
 
 Client side code for the mars application as well as a NodeJS server for local development.
 
@@ -15,7 +15,7 @@ Client side code for the mars application as well as a NodeJS server for local d
 
 ```
 # clone the source code
-$ git clone https://github.com/ProcessMAP/mars.git
+$ git clone https://github.com/ramesh-pmap/handshake.git
 
 # cd path to cloned source
 $ cd mars
